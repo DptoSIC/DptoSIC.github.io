@@ -115,11 +115,17 @@ En general las prácticas del curso se ciñen a esta fase de preproducción, ya 
 
 Habitualmente el entorno de desarrollo/pruebas será Internet usando servicios como:
 1. [GitEIE](https://git.institutomilitar.com/)/[GitHub](https://github.com/) para control de versiones, repositorio de documentación (wikis) y gestión de tareas (kanbans)
-1. [Heroku](https://www.heroku.com/) como servidor de aplicaciones
-1. [GitHub pages](https://pages.github.com/) como servidor web
+1. [Heroku](https://www.heroku.com/) para el servidor de aplicaciones
+1. [Netlify](https://docs.netlify.com/) para el servidor web
 1. [ElephantSQL](https://www.elephantsql.com/) o Heroku como BD en la nube
 
+Este entorno se observa en el siguiente diagrama:
+
+![Arquitectura DevOps](imgs/devops.png)
+
 El uso de este entorno se incluye en esta asignatura.
+
+No obstante, desplegar en la red corporativa usando la infraestructura aprobada oficialmente es lo recomendable, aunque por el escaso tiempo para obtener la autorización no es un escenario realista de manera general.
 
 ## Producción y Mantenimiento
 Éstas fases no son objeto inicialmente de las prácticas. Debe ser gestionado por el organo técnico de apoyo que corresponda en cada ámbito y según la tendencia actual puede acarrear la amplicación de requisitos en caso de ser una aplicación de uso para un alcance mayor.
