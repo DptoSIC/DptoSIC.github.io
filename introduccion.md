@@ -123,7 +123,7 @@ Este entorno se observa en el siguiente diagrama:
 
 ![Arquitectura DevOps](imgs/devops.png)
 
-El uso de este entorno se incluye en esta asignatura.
+El uso de este entorno se incluye en esta asignatura y está [explicado en vídeo](https://youtu.be/Qd9PhRKPhEs).
 
 No obstante, desplegar en la red corporativa usando la infraestructura aprobada oficialmente es lo recomendable, aunque por el escaso tiempo para obtener la autorización no es un escenario realista de manera general.
 
