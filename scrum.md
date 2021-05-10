@@ -34,6 +34,8 @@ El error más común a la hora de implementar es perder el foco:
 1. No preguntar al SM pensando que "esta tarde en casa lo arreglo"
 1. Completar la duración de un Sprint con elementos de corta duración menos prioritarios que los del siguiente Sprint.
 
+## Sprint Planning
+
 Nuestra mejor herramienta para no caer en estos errores es **La Pila** y su representación ordenada en un tablero tipo kanban. Tanto GitHub como GitEIE tienen la posibilidad con pequeñas diferencias entre ellos. Me centraré en [GitEIE](https://git.institutomilitar.com/) porque será lo empleado durante la subfase de prácticas:
 1. Se debe planear cada incremento que pueda entregarse para recibir feedback. Con esas divisiones se agruparán los elementos de **La Pila** que satisfacen cada incremento en sendos Sprints utilizando los Hitos/Milestones.
 1. Los elementos de **La Pila** que serán implementados en el MVP se cargarán como incidencias parecido a este modelo:  
@@ -56,3 +58,17 @@ Por todo ello **es fundamental tener claro** el tablero de la última figura par
 En general deberíamos tener la pila del sprint con las tareas superiores asignadas (Work In Progress - WIP) que deberían estar terminadas en la siguiente daily (porque los elemenos tienen una duración de 1 día o menos) y cuando se completan pasan a la última solumnas de incidencias cerradas. Se pueden crear otras columnas intermedias para otros estados (como por ejemplo pendiente de test de integración si hay dependencias de otras tareas).
 
 Echa un vistazo a los pasos iniciales cargando la primera incidencia y viendo estos elementos en [video](https://www.youtube.com/watch?v=LbQkea_4wCI&list=PL_4GjXD29UltPeqCXVBOl32lWBt5QKf_j&index=6).
+
+## Seguimiento del Sprint
+
+Una vez que tenemos nuestro Sprint Planning hecho llega el momento de hacer el seguimiento. La Daily es el momento ideal para actualizar la situación. Abriendo nuestro tablero podemos ver cómo está la situación de los elementos de **La Pila**. Idealmente, al terminar el día anterior deberíamos haber hecho push de los commits que cumplan con la tarea que nos comprometimos en la Daily. Lo mejor es que si un commit completa la DoD de un issue añadamos al final del título del mensaje `Fix #??` donde `#??` es el identificador del issue. De esta forma nuestro ficha de tarea se actualiza automáticamente (se cierra y contiende un enlace entre el commit y el issue, creándose de esta forma una documentación de calidad con un contexto claro y de forma automática).
+
+En este momento podrémos ver nuestro issue cerrado y en la columna correspondiente. El esfuerzo de cada elemento se puede estimar en GitLab utilizando la acción [`/estimate`](https://docs.gitlab.com/ee/user/project/time_tracking.html). Con la suma de las estimaciones de todos los issues del milestone (nuestro Sprint) podremos calcular el esfuerzo del milestone (que debería coincidir con la duración del Sprint).
+
+En caso de no poder cerrar un issue directamente con un commit, se puede arrastrar el issue a la columna de cerrados. Así nuestro tablero será la herramienta principal para visualizar y gestionar el estado de las tareas. En cada Daily se asumirá el esfuerzo del día seleccionado las tareas que me comprometa a hacer. Si no ha habido ningun cambio respecto al día anterior y **La Pila** está correctamente ordenada, deberían seleccionarse aquellas tareas que estén en lo más alto del milestone suficientes para todo el equipo. Hay que tener en cuenta que es mejor finalizar una tarea y compartir los cambios con el equipo que estar trabajando en tres tareas al mismo tiempo (es decir, la visualización deseable es tener una tarea asignada que esté en lo más alto de La Pila, cualquier otra visualización debe hacernos pensar).
+
+Para conocer si el ritmo que llevamos es suficiente para alcanzar el Sprint Goal se utiliza el [Diagrama Burndown](https://es.wikipedia.org/wiki/Burn_down_chart) (hay más herramientas para ello, pero nos vamos a centrar en el Burndown por su sencillez y uso habitual). En resumen es plasmar en un gráfico una guía que representa un ritmo constante eliminando el esfuerzo correspondiente a cada issue cerrado para completar el Sprint Backlog dentro de la duración del Sprint. La [versión premium del GitLab incluye un complemento llamado Burndown Chart](https://docs.gitlab.com/ee/user/project/milestones/burndown_and_burnup_charts.html)) que pinta este esfuerzo. 
+
+![Ejemplo Burndown](https://docs.gitlab.com/ee/user/project/milestones/img/burndown_chart_v13_6.png)
+
+Para nuestro repositorio GitEIE se ha implementado un [diagrama Burndown personalizado](https://burndown-dim.netlify.app/). Puedes ver cómo utilizarlo en su [demostración en vídeo](https://youtu.be/_krAgjeZrI4).
