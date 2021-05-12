@@ -36,7 +36,7 @@ Partiendo del supuesto se obtendrán:
 > 1. [Time to Market (TTM)](https://en.wikipedia.org/wiki/Time_to_market)
 > 1. [Retorno de la Inversión (ROI)](https://en.wikipedia.org/wiki/Return_on_investment)
 
-> _NOTA DIM: Es recomentable **hacer ya en este punto un borrador de Diagrama de Casos de Uso (CU) y de Modelo de Dominio**. No deben estar demasiado detallados ya que no son documentos de trabajo para implementación (puede que la alternativa escogida sea comprar una aplicación, pero sirven para analizar mejor alternativas de terceros y comprender bien el alcance del negocio y las relaciones entre actores, procesos y entidades. **Sobretodo son muy útiles inicialmente en nuestro caso ya que se ha observado en muchos alumnos que comprenden mejor sus proyectos individuales si pueden visualizar esta información**._
+> _NOTA DIM: Es recomendable **hacer ya en este punto un borrador de Diagrama de Casos de Uso (CU) y de Modelo de Dominio**. No deben estar demasiado detallados ya que no son documentos de trabajo para implementación (puede que la alternativa escogida sea comprar una aplicación, pero sirven para analizar mejor alternativas de terceros y comprender bien el alcance del negocio y las relaciones entre actores, procesos y entidades. **Sobretodo son muy útiles inicialmente en nuestro caso ya que se ha observado en muchos alumnos que comprenden mejor sus proyectos individuales si pueden visualizar esta información**._
 
 Es importante que las preguntas para aclarar contengan:
 1. **Opciones** sobre las que tenga que decidir: _"Esto se puede hacer así o así"_ y **el cliente debe decidir**
@@ -94,9 +94,9 @@ Hay que tener en cuenta que **La Pila** es un documento prioritario y vivo, que 
 Como se ve en la figura, cada retroalimentación conseguida para cada incremento hace evolucionar **La Pila**, por tanto hay que centrarse en los elementos del MVP que es la cantidad mínima de trabajo que nos hará saber si la propuesta es aceptada por "el mercado" o no.
 
 ## Definición del Producto Mínimo Viable (MVP)
-Una vez se tiene toda la pila priorizada (al nivel de detalle adecuado para empezar a implementar), se deben escoger los elementos que hay que incluir para el MVP. Cuanto más sistémico sea un producto más dificil será aislarlo (porque habrá mucha interdependencia entre distintas partes del producto). De esos elementos **hay que detectar los más críticos para empezar por ellos** (los elementos que si no se pueden realizar la aplicación no tiene negocio). Por tanto la prioridad de todos los servicios de terceros o librerías que en principio no deben suponer un reto deben bajar de prioridad en el MVP y se debe afrontar primero los riesgos detectados pues serán los que marquen en mayor medida los cambios futuros que haya que realizar en **La Pila**.
+Una vez se tiene toda la pila priorizada (al nivel de detalle adecuado para empezar a implementar), se deben escoger los elementos que hay que incluir para el MVP. Cuanto más sistémico sea un producto más difícil será aislarlo (porque habrá mucha interdependencia entre distintas partes del producto). De esos elementos **hay que detectar los más críticos para empezar por ellos** (los elementos que si no se pueden realizar la aplicación no tiene negocio). Por tanto la prioridad de todos los servicios de terceros o librerías que en principio no deben suponer un reto deben bajar de prioridad en el MVP y se debe afrontar primero los riesgos detectados pues serán los que marquen en mayor medida los cambios futuros que haya que realizar en **La Pila**.
 
-Ejemplos típicos de partes que se pueden posponer es la securización y gestión de usuarios, la generación de informes, GUIs de administración que puedan ser sustituidas por achivos de configuración, conexiones que puedan simularse, etc...
+Ejemplos típicos de partes que se pueden posponer es la securización y gestión de usuarios, la generación de informes, GUIs de administración que puedan ser sustituidas por archivos de configuración, conexiones que puedan simularse, etc...
 
 ![MVP correctamente elegido](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrianpagan.net%2Fwp-content%2Fuploads%2F2015%2F08%2FMVP-brianpagan.net-diagram1.png&f=1&nofb=1)
 
@@ -105,13 +105,13 @@ Se debe tener en cuenta que **el MVP debe cubrir todos los aspectos del producto
 > _NOTA: Ver concepto [Vertical Slice](https://en.wikipedia.org/wiki/Vertical_slice). Incluso puede valer una simulación del producto final hecha con cualquier herramienta de prototipado si el proyecto lo aconseja._
 
 ## Preproducción
-Para la implementación se usuará como base los artefactos, roles y eventos de [Scrum](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-European.pdf). El uso y conocimiento de Scrum nos va a servir para poder trabajar con otro personal colaborador ya que es la referencia principal como forma de trabajo. Para entender la forma de trabajo ver el siguiente documento dedicado a ello Scrum.
+Para la implementación se usará como base los artefactos, roles y eventos de [Scrum](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-European.pdf). El uso y conocimiento de Scrum nos va a servir para poder trabajar con otro personal colaborador ya que es la referencia principal como forma de trabajo. Para entender la forma de trabajo ver el siguiente documento dedicado a ello Scrum.
 
 La fase de preproducción se enfoca a realizar el MVP con un equipo de desarrollo reducido. Persigue validar la solución propuesta y minimizar el empleo de recursos en caso contrario.
 
 ![Scrum vs Tradicional](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F41%2Fd9%2Fa4%2F41d9a491ccbf82833e1a71accedfbafb--scrum-nice-people.jpg&f=1&nofb=1)
 
-En general las prácticas del curso se ciñen a esta fase de preproducción, ya que no es normal que por plazos de tiempo se pueda llegar a producción o se amplie el ED con personal de la UCO. Nuestro objetivo debe ser proporcionar un MVP que sirva de prototipo a la UCO para que en caso de ser aprobado pueda continuar con su producción y mantenimiento con su propio personal.
+En general las prácticas del curso se ciñen a esta fase de preproducción, ya que no es normal que por plazos de tiempo se pueda llegar a producción o se amplíe el ED con personal de la UCO. Nuestro objetivo debe ser proporcionar un MVP que sirva de prototipo a la UCO para que en caso de ser aprobado pueda continuar con su producción y mantenimiento con su propio personal.
 
 Habitualmente el entorno de desarrollo/pruebas será Internet usando servicios como:
 1. [GitEIE](https://git.institutomilitar.com/)/[GitHub](https://github.com/) para control de versiones, repositorio de documentación (wikis) y gestión de tareas (kanbans)
@@ -128,7 +128,7 @@ El uso de este entorno se incluye en esta asignatura y está [explicado en víde
 No obstante, desplegar en la red corporativa usando la infraestructura aprobada oficialmente es lo recomendable, aunque por el escaso tiempo para obtener la autorización no es un escenario realista de manera general.
 
 ## Producción y Mantenimiento
-Éstas fases no son objeto inicialmente de las prácticas. Debe ser gestionado por el organo técnico de apoyo que corresponda en cada ámbito y según la tendencia actual puede acarrear la amplicación de requisitos en caso de ser una aplicación de uso para un alcance mayor.
+Éstas fases no son objeto inicialmente de las prácticas. Debe ser gestionado por el organo técnico de apoyo que corresponda en cada ámbito y según la tendencia actual puede acarrear la ampliación de requisitos en caso de ser una aplicación de uso para un alcance mayor.
 
 Normalmente el MVP recibirá un feedback a tener en cuenta para la fase de producción pero ahorrará recursos importantes a la UCO tanto si tiene éxito como si no.
 
