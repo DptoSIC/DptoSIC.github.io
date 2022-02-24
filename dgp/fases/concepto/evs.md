@@ -4,9 +4,11 @@ El [Estudio de Viabilidad del Sistema (EVS)](https://es.wikipedia.org/wiki/An%C3
 
 Partiendo de la información disponible se obtendrán los siguientes puntos clave:
 1. Los [**requisitos** detectados](https://dim.institutomilitar.com/shared/NIeUthgV0xdIKPlkK9CXDGS1bjnbN1aoU8O1nqVb18D),
-1. los [**riesgos**](https://es.wikipedia.org/wiki/Riesgo) valorados (tanto en probabilidad de materializarse como daño sobre el sistema) y su aplicación en cada caso (puede que sea un riesgo sólo para una alternativa como desplegar en una Intranet),
-1. las **preguntas** que queden pendientes para aclarar (ver abajo) con los todos los stackeholders y
+1. los [**riesgos**](https://es.wikipedia.org/wiki/Riesgo) valorados (tanto en probabilidad de materializarse como impacto sobre el sistema - ver figura) y su aplicación en cada caso (puede que sea un riesgo sólo para una alternativa como desplegar en una Intranet),
+1. las **cuestiones** que queden pendientes para aclarar (ver abajo en preparación de reuniones) con todos los stackeholders y
 1. delimitar el objetivo inicial del estudio que debe responder a **¿Cuál es el MVP?**
+
+![Cuadrante de riesgos](https://www.incibe.es/sites/default/files/contenidos/blog/20210608_gestion_riesgos_ciberseguros/mapa_de_riesgos.png)
 
 > Otros conceptos relacionados son:
 > 1. [Time to Market (TTM)](https://en.wikipedia.org/wiki/Time_to_market)
@@ -24,7 +26,7 @@ Las reuniones con los stackeholders hay que preparalas muy bien si no se dispone
 1. **Evitar ampliar el alcance** dando nuevas ideas ya que se trata de reducir la incertidumbre y definir el MVP. Si el desarrollo es de calidad será fácilmente adaptable a lo que requiera el mercado. Es mejor una buena solución hoy que la mejor más tarde (normalmente demasiado tarde). La oportunidad es una virtud muy valiosa.
 
 ## Alternativas de solución
-Se deben elaborar las alternativas que proporcionan una solución. Cada una con los siguientes puntos:
+Se deben elaborar las alternativas que proporcionan una solución. Cada una con los siguientes puntos ([ver ejemplo](https://git.institutomilitar.com/proyectos-finales/tizona/-/wikis/1.-EVS/2.-Estudio-Alternativas#1-desarrollo-propio)):
 1. Definición de **arquitectura y tecnología** (de cada entorno en su caso)
 1. **Estimación** de carga de trabajo y plazos de tiempo asociados.
 1. **Valoración económica** (mano de obra, hardware, software y servicios externos). Evidentemente debe ser coherente con la estimación.

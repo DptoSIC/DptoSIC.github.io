@@ -1,6 +1,6 @@
 # Concepto
 
-La fase de concepto puede plantearse desde muy disintos niveles de conocimiente:
+La fase de concepto puede plantearse desde muy disintos niveles de conocimiento:
 1. Puede necesitarse hacerla desde el principio desde una definición vaga.
 1. Partir de algo ya madurado por negocio o basado en algo existente pero con otras necesidades añadidas
 1. Puede ser una migración desde otro sistema y estar muy claro lo que se necesita o incluso contar con un prototipo.
@@ -19,7 +19,7 @@ Conocer el negocio es fundamental para realizar un buen desarrollo. Un producto 
 Entender el negocio se trata de un proceso iterativo. Poder contar con un responsable de negocio a diario es lo ideal. En caso contrario hay que **extraer** lo que el cliente/usuario necesita en las reuniones, encuestas o cualquier forma de captar información que sea adecuada. Es decir, no puede limitarse a "tomar nota" de forma pasiva, debe **extraerse** información útil para el desarrollo ya que, en general, el cliente no es muy detallista y esperará que el desarrollador "ya sepa lo que hace falta".
 
 Conforme se va consiguiendo ese entendimiento se debe ir registrando en documentación que sirva de explicación de por qué se ha hecho lo que se ha hecho y por qué no se ha hecho otra cosa.
-> _Nota: a veces este último punto es clave pues el desarrollo se hace dentro de un contexto que en un futuro puede varias: legislación, tecnología, recursos, alcance obetivo, etc... por lo que disponer del trasfondo de por qué se tomo una decisión entre otras es útil a la hora de alcanzar un contexto que haga ideal otra decisión._
+> _Nota: a veces este último punto es clave pues el desarrollo se hace dentro de un contexto que en un futuro puede varias: legislación, tecnología, recursos, alcance objetivo, etc... por lo que disponer del trasfondo de por qué se tomo una decisión entre otras es útil a la hora de alcanzar un contexto que haga ideal otra decisión._
 
 La documentación que registra el trabajo conceptual del producto consiste en tres documentos principales:
 1. Estudio de Viabilidad del Sistema (EVS)

@@ -8,6 +8,7 @@ La metodología de aprendizaje se puede dividir en dos partes:
 
 1. Primeramente vamos a crear un producto que sirva para la carga y explotación de datos deportivos. Éste trabajo será en equipo y comprende la fase de concepto. El final de esta parte será la exposición en equipo todo el trabajo realizado. Sin emnbargo, la construcción del producto forma parte de otras asignaturas.
 1. Una vez terminada esta parte el trabajo se dedicará en exclusiva al proyecto individual. Cada proyecto individual debe ser aprobado por el profesor ya que debe cumplir una serie de requisitos según la guía docente. El alumno deberá hacer mínimo tres exposiciones: fase de concepto y una por cada versión del producto. Se piden mínimo dos versiones, que deben ser desplegadas y accesibles desde Internet.
+> _NOTA: Para que el profesor pueda aprobar la definición de proyecto individual se debe crear el repositorio del proyecto principal con un `README.MD` y siguiendo el modelo de ejemplo. Éste repositorio se compartirá con el profesor en el commit donde ese README sea el definitivo (ver [ejemplo](https://git.institutomilitar.com/Awes0meM4n/proyecto-individual-datos-deportivos/-/commit/45011bea37e5eb8304ba4b39daa28550395de3f2))._
 
 ## Proyecto en equipo
 
