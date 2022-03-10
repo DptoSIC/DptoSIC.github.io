@@ -10,4 +10,4 @@
       1. [Definición del Producto Mínimo Viable (MVP)](/dgp/fases/concepto/mvp)
    1. [Preproducción](/dgp/fases/produccion)
    1. [Producción y Mantenimiento](/dgp/fases/preproduccion-y-manto)
-1. Scrum
+1. [Scrum](/dgp/scrum/indice)
