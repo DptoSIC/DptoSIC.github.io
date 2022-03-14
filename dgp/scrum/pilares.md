@@ -15,3 +15,9 @@ Si algún aspecto de un proceso se desvía fuera de los límites aceptables o si
 
 La adaptación se vuelve más difícil cuando las personas involucradas no están empoderadas o no
 poseen capacidad para autogestionarse. **Se espera que un equipo de Scrum se adapte en el momento en que aprenda algo nuevo por medio de la inspección**.
+
+![Scrum vs tradicional](/imgs/scrum-vs-tradicional.webp)
+
+### Comparación con waterfall
+![Gráficas de evolución](/imgs/evolucion-graficas.webp)
+![Leyenda de evolución](/imgs/evolucion-leyenda.webp)

@@ -9,7 +9,7 @@ Scrum se describe en su [guía](https://scrumguides.org/). Estos son apuntes tom
 **Scrum es un marco de trabajo (framework) ligero** que ayuda a las personas, equipos y organizaciones a generar valor a través de soluciones adaptables para problemas complejos.
 En pocas palabras, Scrum requiere un _Scrum Master_ para fomentar un entorno donde:
 1. Un propietario del producto (_Product Owner_) ordena el trabajo de un problema complejo en un `Product Backlog`.
-2. _El equipo de Scrum_ convierte una selección del trabajo en un `Incremento` de valor durante un Sprint.
+2. _El equipo de Scrum_ convierte una selección del trabajo en un `Incremento` de valor durante un <span style="text-decoration: underline">Sprint</span>.
 3. _El equipo de Scrum_ y sus partes interesadas (stakeholders) inspeccionan los resultados y realizan los ajustes necesarios para el próximo <span style="text-decoration: underline">Sprint</span>.
 4. Repetir
 

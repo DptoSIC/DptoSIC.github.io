@@ -4,6 +4,7 @@ El uso exitoso de Scrum depende de que las personas sean más competentes en viv
 **Compromiso, Enfoque, Apertura, Respeto y Coraje**
 
 ![Valores Scrum](/imgs/valores.webp)
+
 El equipo de Scrum se **compromete** a lograr sus objetivos y apoyarse mutuamente. Su **enfoque** principal es el trabajo del Sprint para hacer el mejor progreso posible hacia estos objetivos. El equipo de Scrum y sus partes interesadas están **abiertos** sobre el trabajo y los desafíos. Los miembros del equipo de Scrum se **respetan** mutuamente para ser personas capaces e independientes, y son respetados como tales por las personas con las que trabajan. Los miembros del equipo de Scrum **tienen el valor** de hacer lo correcto y de trabajar en **problemas complejos**.
 
 ## Complejidad
