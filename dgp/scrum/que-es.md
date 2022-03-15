@@ -18,7 +18,8 @@ En pocas palabras, Scrum requiere un _Scrum Master_ para fomentar un entorno don
 El marco de Scrum es deliberadamente incompleto, solo define las partes necesarias para implementar la teoría de Scrum. **Scrum se basa en la inteligencia colectiva de las personas que lo utilizan**. En lugar de proporcionar a las personas instrucciones detalladas, las reglas de Scrum guían sus relaciones e interacciones.
 
 ## Teoría de Scrum
-**Scrum se basa en el empirismo y el pensamiento Lean**. El empirismo afirma que el conocimiento proviene de la experiencia y la toma de decisiones basadas en lo que se observa. El pensamiento Lean reduce los desperdicios y se centra en lo esencial.
+
+![Esto es Scrum](/imgs/scrum-easy.gif){: style="float: right; width: 20em; max-width: 50%; margin-left: 2rem"} **Scrum se basa en el empirismo y el pensamiento Lean**. El empirismo afirma que el conocimiento proviene de la experiencia y la toma de decisiones basadas en lo que se observa. El pensamiento Lean reduce los desperdicios y se centra en lo esencial.
 
 Scrum emplea un enfoque iterativo e incremental para optimizar la previsibilidad y controlar el riesgo. **Scrum involucra a grupos de personas que colectivamente tienen todas las habilidades** y experiencia para hacer el trabajo y compartir o adquirir tales habilidades según sea necesario (equipos cross-funcionales/multidisciplinares).
 

@@ -1,10 +1,10 @@
 # Preproducción
 
-Para la implementación se usará como base los artefactos, roles y eventos de [Scrum](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-European.pdf). El uso y conocimiento de Scrum nos va a servir para poder trabajar con otro personal colaborador ya que es la referencia principal como forma de trabajo. Para entender la forma de trabajo ver el siguiente documento dedicado a ello Scrum.
+Para la implementación se usará "Combat Agile" que usa Scrum. El uso y conocimiento de Scrum nos va a servir para poder trabajar con otro personal colaborador ya que es la referencia principal como forma de trabajo. Para entender la forma de trabajo ver el siguiente documento dedicado a ello Scrum.
 
 La fase de preproducción se enfoca a realizar el MVP con un equipo de desarrollo reducido. Persigue validar la solución propuesta y minimizar el empleo de recursos en caso contrario.
 
-![Scrum vs Tradicional](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F41%2Fd9%2Fa4%2F41d9a491ccbf82833e1a71accedfbafb--scrum-nice-people.jpg&f=1&nofb=1)
+![Scrum vs Tradicional](/imgs/scrum-vs-tradicional.webp)
 
 En general las prácticas del curso se ciñen a esta fase de preproducción, ya que no es normal que por plazos de tiempo se pueda llegar a producción o se amplíe el ED con personal de la UCO. Nuestro objetivo debe ser proporcionar un MVP que sirva de prototipo a la UCO para que en caso de ser aprobado pueda continuar con su producción y mantenimiento con su propio personal.
 
@@ -16,7 +16,7 @@ Habitualmente el entorno de desarrollo/pruebas será Internet usando servicios c
 
 Este entorno se observa en el siguiente diagrama:
 
-![Arquitectura DevOps](imgs/devops.png)
+![Arquitectura DevOps](/imgs/devops.webp)
 
 El uso de este entorno se incluye en esta asignatura y está [explicado en vídeo](https://youtu.be/Qd9PhRKPhEs).
 

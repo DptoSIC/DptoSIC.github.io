@@ -13,9 +13,9 @@ Los desarrolladores deben ajustarse a la **`DoD`**. Si hay varios equipos de Scr
 
 ## Cuidado con la deuda técnica
 
-Cuando se dan por finalizados elementos que no cumplen con la **`DoD`** se empieza a acumular deuda técnica. Cumplir la **`DoD`** no garantiza no tener deduda técnica. Si aún cumpliendo la **`DoD`** se acumula deuda técnica puede ser un indicador de que la **`DoD`** no es correcta y hay que revisarla.
+Cuando se dan por finalizados elementos que no cumplen con la **`DoD`** se empieza a acumular deuda técnica. Cumplir la **`DoD`** no garantiza no tener deuda técnica. Si aún cumpliendo la **`DoD`** se acumula deuda técnica puede ser un indicador de que la **`DoD`** no es correcta y hay que revisarla.
 
-La deuda técnica reduce la capacidad de generar valor según el siguiente gráfico.
+**La deuda técnica reduce la capacidad de generar valor** según el siguiente gráfico.
 
 ![Lucha con la deuda técnica](/imgs/lucha-con-deuda-tecnica.webp)
 

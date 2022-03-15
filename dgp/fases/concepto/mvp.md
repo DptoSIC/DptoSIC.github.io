@@ -6,7 +6,7 @@ Una vez se tiene toda la pila priorizada (al nivel de detalle adecuado para empe
 
 Ejemplos típicos de partes que se pueden posponer es la securización y gestión de usuarios, la generación de informes, GUIs de administración que puedan ser sustituidas por archivos de configuración, conexiones que puedan simularse, etc...
 
-![MVP correctamente elegido](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrianpagan.net%2Fwp-content%2Fuploads%2F2015%2F08%2FMVP-brianpagan.net-diagram1.png&f=1&nofb=1)
+![MVP correctamente elegido](/imgs/mvp.webp)
 
 Se debe tener en cuenta que **el MVP debe cubrir todos los aspectos del producto aunque sea una porción del producto final** y no estar descompensado tocando sólo funcionalidades que no sean de aprovechamiento para validarse.
 

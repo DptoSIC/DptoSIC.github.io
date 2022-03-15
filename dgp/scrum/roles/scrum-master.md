@@ -27,4 +27,4 @@ El _Scrum Master_ sirve a la organización de varias maneras, incluyendo:
 * Ayudar a las personas y a las partes interesadas a comprender y **promulgar un enfoque empírico para el trabajo complejo**.
 * **Eliminar las barreras** entre las partes interesadas y los equipos de Scrum.
 
-![Scrum Master skill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.slidesharecdn.com%2F1scrum-161030030608%2F95%2Fdont-lead-your-team-to-the-dark-side-6-638.jpg%3Fcb%3D1477796793&f=1&nofb=1){:style="display:block; margin-left:auto; margin-right:auto"}
+![Scrum Master skill](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblog.soshace.com%2Fwp-content%2Fuploads%2F2016%2F08%2FJediScrum.jpg&f=1&nofb=1){:style="display:block; margin-left:auto; margin-right:auto"}
