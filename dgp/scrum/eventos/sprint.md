@@ -22,8 +22,8 @@ Existen varias prácticas para pronosticar el progreso, como gráficos de burn-d
 
 ## Es importante mantener la vista en el producto
 
-![Product Mindset vs Project Mindset](/imgs/product-mindset.webp)
+![Product Mindset vs Project Mindset](/imgs/product-mindset.webp){:.centered}
 
 Y pensar menos en los proyectos
 
-![Project Mindset](/imgs/project-mindset.webp)
+![Project Mindset](/imgs/project-mindset.webp){:.centered}

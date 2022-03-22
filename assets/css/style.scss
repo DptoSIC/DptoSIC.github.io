@@ -1,0 +1,42 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (max-width: 42em){
+    img.float-izda, img.float-dcha {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+img.float-izda, img.float-dcha {
+    width: 20em;
+    max-width: 50%;
+}
+
+.float-izda {
+    float: left;
+    margin-right: 2rem;
+}
+
+.float-dcha {
+    float: right;
+    margin-left: 2rem;
+}
+
+.page-header {
+	padding: 1rem 2rem;
+}
+
+.project-tagline {
+	margin-bottom: 0;
+}
+
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

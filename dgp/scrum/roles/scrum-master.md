@@ -6,7 +6,7 @@ consigue ayudando a todos a comprender la teoría y la práctica de Scrum, tanto
 El **_Scrum Master_ es responsable de la efectividad del Scrum Team**. Lo logra al permitir que el equipo Scrum mejore sus prácticas, dentro del marco de Scrum.
 Los _Scrum Masters_ son verdaderos líderes que sirven al equipo Scrum y a toda la organización.
 
-![Valores Scrum](../../../imgs/opciones-sm.webp)
+![Valores Scrum](/imgs/opciones-sm.webp)
 
 El _Scrum Master_ sirve al equipo de Scrum de varias maneras, incluyendo:
 * Capacitar a los miembros del equipo en autogestión y multifuncionalidad.
@@ -27,4 +27,4 @@ El _Scrum Master_ sirve a la organización de varias maneras, incluyendo:
 * Ayudar a las personas y a las partes interesadas a comprender y **promulgar un enfoque empírico para el trabajo complejo**.
 * **Eliminar las barreras** entre las partes interesadas y los equipos de Scrum.
 
-![Scrum Master skill](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblog.soshace.com%2Fwp-content%2Fuploads%2F2016%2F08%2FJediScrum.jpg&f=1&nofb=1){:style="display:block; margin-left:auto; margin-right:auto"}
+![Scrum Master skill](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblog.soshace.com%2Fwp-content%2Fuploads%2F2016%2F08%2FJediScrum.jpg&f=1&nofb=1){:.centered}

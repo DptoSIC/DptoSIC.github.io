@@ -7,7 +7,7 @@ La unidad fundamental de Scrum es un pequeño equipo de personas, un equipo Scru
 
 Dentro de un equipo de Scrum, **no hay sub-equipos ni jerarquías**. Es una unidad cohesionada de profesionales **enfocada en un objetivo** a la vez, el objetivo del Producto (`Product Goal`).
 
-![Equipos Multifuncionales](/imgs/cross-functional.webp){: style="float: left; width: 20em; margin-right: 2rem"} Los equipos de Scrum son multifuncionales, lo que significa que **los miembros tienen todas las habilidades necesarias para crear valor en cada <span style="text-decoration: underline">Sprint</span>. También son autogestionados**, lo que significa que internamente deciden quién hace qué, cuándo y cómo.
+![Equipos Multifuncionales](/imgs/cross-functional.webp){:.float-izda} Los equipos de Scrum son multifuncionales, lo que significa que **los miembros tienen todas las habilidades necesarias para crear valor en cada <span style="text-decoration: underline">Sprint</span>. También son autogestionados**, lo que significa que internamente deciden quién hace qué, cuándo y cómo.
 
 **Todo el equipo de Scrum es responsable de crear un `incremento` valioso y útil** en cada <span style="text-decoration: underline">Sprint</span>.
 

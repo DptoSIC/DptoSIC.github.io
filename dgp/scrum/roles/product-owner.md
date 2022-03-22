@@ -12,7 +12,7 @@ El _Product Owner_ puede hacer el trabajo anterior o puede delegar la responsabi
 
 **Para que los _Product Owner_ tengan éxito, toda la organización debe respetar sus decisiones**.
 
-![Respeto al Product Owner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.memegenerator.es%2Fimagenes%2Fmemes%2Ffull%2F3%2F77%2F3771569.jpg&f=1&nofb=1){:style="display:block; margin-left:auto; margin-right:auto"}
+![Respeto al Product Owner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.memegenerator.es%2Fimagenes%2Fmemes%2Ffull%2F3%2F77%2F3771569.jpg&f=1&nofb=1){:.centered}
 
 Estas decisiones son visibles en el contenido y el orden del `Product Backlog`, y a través del `Incremento` inspeccionable en la revisión de <span style="text-decoration: underline">Sprint</span>.
 

@@ -29,4 +29,4 @@ Algunos puntos que debería tener la **`DoD`** son:
 
 ## Lecturas recomendadas
 
-![Lecturas DoD](/imgs/lecturas-dod.webp)
+![Lecturas DoD](/imgs/lecturas-dod.webp){:.centered}

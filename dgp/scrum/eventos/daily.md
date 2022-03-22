@@ -5,7 +5,7 @@ El propósito de la <span style="text-decoration: underline">Daily Scrum</span> 
 
 **Los `Developers` pueden seleccionar cualquier estructura y técnicas que deseen, siempre y cuando su <span style="text-decoration: underline">Daily Scrum</span> se centre en el progreso hacia el** **`Sprint Goal`** **y produzca un plan accionable para el día siguiente de trabajo**. Esto crea enfoque y mejora la autogestión.
 
-![Daily meme](/imgs/daily-comic.gif)
+![Daily meme](/imgs/daily-comic.gif){:.centered}
 
 Las <span style="text-decoration: underline">Daily Scrum</span> mejoran la comunicación, identifican impedimentos, promueven una rápida para la toma de decisiones, y en consecuencia, eliminan la necesidad de otras reuniones.
 

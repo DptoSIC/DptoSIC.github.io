@@ -9,6 +9,6 @@ Las habilidades específicas que necesitan los _Developers_ son a menudo amplias
 * Adaptar su plan cada día hacia el Objetivo del <span style="text-decoration: underline">Sprint</span> (**`Sprint Goal`**).
 * Responsabilizarse mutuamente como profesionales.
 
-![Done](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GdDGujKG4vxZVcblQ1uHpAHaEP%26pid%3DApi&f=1){:style="display:block; margin-left:auto; margin-right:auto"}
+![Done](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GdDGujKG4vxZVcblQ1uHpAHaEP%26pid%3DApi&f=1){:.centered}
 
 > _NOTA: ¿Qué es [Done](/dgp/scrum/compromisos/dod)?_
