@@ -4,3 +4,6 @@
 1. Los [Valores](valores)
 1. El [Equipo Scrum](roles/scrum-team) (roles)
 1. Los [Eventos](eventos/eventos)
+1. Los [Artefactos](artefactos/artefactos)
+
+![Lecturas recomendadas](/imgs/lecturas-scrum.webp){:.centered}
