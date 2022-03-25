@@ -15,6 +15,8 @@ Los desarrolladores deben ajustarse a la **`DoD`**. Si hay varios equipos de Scr
 
 <span class="highlight">Cuando se dan por finalizados elementos que no cumplen con la **`DoD`** se empieza a acumular deuda técnica. Sin embargo, cumplir la **`DoD`** no garantiza no tener deuda técnica</span>. Si aún cumpliendo la **`DoD`** se acumula deuda técnica puede ser un indicador de que la **`DoD`** no es correcta y hay que revisarla.
 
+> _NOTA: Los responsables de la deuda técnica son los Developers, pero el responsable de **gestionar** la deuda es el Product Owner (deberá tener espacio en el Product Backlog para acometerla)_
+
 <span class="highlight">La deuda técnica reduce la capacidad de generar valor</span> según el siguiente gráfico.
 
 ![Lucha con la deuda técnica](/imgs/lucha-con-deuda-tecnica.webp)
@@ -27,6 +29,6 @@ Algunos puntos que debería tener la **`DoD`** son:
 1. Localizaciones para audiencias objetivo
 1. Code reviews
 
-## Lecturas recomendadas
+### Lecturas recomendadas
 
 ![Lecturas DoD](/imgs/lecturas-dod.webp){:.centered}

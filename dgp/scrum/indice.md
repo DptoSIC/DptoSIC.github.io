@@ -6,4 +6,5 @@
 1. Los [Eventos](eventos/eventos)
 1. Los [Artefactos](artefactos/artefactos)
 
+### Lecturas recomendadas
 ![Lecturas recomendadas](/imgs/lecturas-scrum.webp){:.centered}

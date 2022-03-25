@@ -4,7 +4,7 @@ Los sprints son el latido del corazón de Scrum, <span class="highlight">donde l
 
 Son eventos de <span class="highlight">longitud fija de un mes o menos</span> para crear consistencia. <span class="highlight">Un nuevo Sprint comienza inmediatamente después de la conclusión del Sprint anterior</span>.
 
-Todo el trabajo necesario para alcanzar el objetivo del producto, incluyendo la Planificación (<span class="evento">Sprint Planning</span>), <span class="evento">Daily Scrum</span>s, Revisión del Sprint (<span class="evento">Sprint Review</span>) y la Retrospectiva (<span class="evento">Sprint Retrospective</span>), ocurren dentro del <span class="evento">Sprint</span>.
+<span class="highlight">Todo el trabajo</span> necesario para alcanzar el objetivo del producto, incluyendo la Planificación (<span class="evento">Sprint Planning</span>), <span class="evento">Daily Scrum</span>s, Revisión del Sprint (<span class="evento">Sprint Review</span>) y la Retrospectiva (<span class="evento">Sprint Retrospective</span>), <span class="highlight">ocurre dentro del <span class="evento">Sprint</span></span>.
 
 ![Sprint](/imgs/sprint.webp)
 

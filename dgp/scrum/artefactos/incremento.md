@@ -4,7 +4,7 @@
 
 Se pueden crear varios `Incremento`s dentro de un <span class="evento">Sprint</span> . La suma de los `Incremento`s se presenta en la <span class="evento">Sprint Review</span> apoyando así el empirismo. Sin embargo, <span class="highlight">un `Incremento` puede ser entregado a las partes interesadas antes del final del <span class="evento">Sprint</span> . La <span class="evento">Sprint Review</span> nunca debe considerarse una puerta para liberar valor</span>.
 
-![Incremento continuo](https://www.quickmeme.com/img/e3/e3cff629826455f00a5f94e29d00aa0725e1a1266e83db81b0aebcef03a61eff.jpg)
+![Incremento continuo](http://www.quickmeme.com/img/e3/e3cff629826455f00a5f94e29d00aa0725e1a1266e83db81b0aebcef03a61eff.jpg){:.centered}
 
 El trabajo no se puede considerar parte de un `Incremento` a menos que cumpla con la Definición de Hecho (**`Definition of Done`**).
 
