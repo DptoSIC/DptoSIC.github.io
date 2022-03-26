@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-google_analytics: "G-TVRS8DXNWR"
+# google_analytics: "G-TVRS8DXNWR" # con esto solo no llegan datos a Analytics, mejor poner el codigo en header-custom
 defaults:
   -
     scope:
