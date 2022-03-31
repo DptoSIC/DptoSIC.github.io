@@ -11,3 +11,4 @@
    1. [Preproducción](/dgp/fases/produccion)
    1. [Producción y Mantenimiento](/dgp/fases/preproduccion-y-manto)
 1. [Scrum](/dgp/scrum/indice)
+1. [Combat Agile](/dgp/combat-agile/indice)
