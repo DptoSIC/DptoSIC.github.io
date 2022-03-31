@@ -1,9 +1,4 @@
-## Origen
-Scrum es la cúspide de la pirámide que se apoya sobre el agilismo. El agilismo surgió de observar el fracaso en el desarrollo de software, entendiéndolo como una ingeniería, y se plasmó en lo que se conoce como el [manifiesto ágil](https://agilemanifesto.org/iso/es/manifesto.html).
-
-![Agile y Scrum](/imgs/agile-y-scrum.webp){:.centered}
-
-Scrum se describe en su [guía](https://scrumguides.org/). Estos son apuntes tomando como base esa guía.
+# ¿Qué es Scrum?
 
 ## Definición de Scrum
 <span class="highlight">Scrum es un marco de trabajo (framework) ligero</span> que ayuda a las personas, equipos y organizaciones a generar valor a través de soluciones adaptables para problemas complejos.

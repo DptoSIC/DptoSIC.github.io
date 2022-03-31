@@ -12,9 +12,9 @@ Hay que tener en cuenta que independientemente del punto de partida hay que lleg
 1. Mapa de versiones (Release Plan): Para programar los incrementos previstos (previsión de Sprints).
 > _Nota: Si hay algun concepto como "La Pila", backlog o sprint, no hay que preocuparse, se enseñan cuando se explican los conceptos de Scrum._
 
-La ventaja de las herramientas visuales es que son más fáciles de entender que un diagrama UML por parte de los stackeholders. Si se les muestra un diagrama de Casos de Uso terminado habitualmente dirán que les parece bien a menos que haya errores evidentes o falten casos importantes, pero si se tiene una pared con posits bien estructurada va a ser más fácil poder interactuar con ella y facilitar el entendimiento.
+La ventaja de las herramientas visuales es que son más fáciles de entender que un diagrama UML por parte de los stakeholders. Si se les muestra un diagrama de Casos de Uso terminado habitualmente dirán que les parece bien a menos que haya errores evidentes o falten casos importantes, pero si se tiene una pared con posits bien estructurada va a ser más fácil poder interactuar con ella y facilitar el entendimiento.
 
-Conocer el negocio es fundamental para realizar un buen desarrollo. Un producto muy bueno técnicamente no es sinónimo de éxito en el negocio. Un producto aceptado por los stackeholders es una mayor garantía.
+Conocer el negocio es fundamental para realizar un buen desarrollo. Un producto muy bueno técnicamente no es sinónimo de éxito en el negocio. Un producto aceptado por los stakeholders aumenta la probabilidad de éxito.
 
 Entender el negocio se trata de un proceso iterativo. Poder contar con un responsable de negocio a diario es lo ideal. En caso contrario hay que **extraer** lo que el cliente/usuario necesita en las reuniones, encuestas o cualquier forma de captar información que sea adecuada. Es decir, no puede limitarse a "tomar nota" de forma pasiva, debe **extraerse** información útil para el desarrollo ya que, en general, el cliente no es muy detallista y esperará que el desarrollador "ya sepa lo que hace falta".
 
