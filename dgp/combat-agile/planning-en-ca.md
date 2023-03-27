@@ -8,7 +8,7 @@ Tanto GitHub como GitLab tienen la posibilidad con pequeñas diferencias entre e
     ![Ejemplo hitos](/imgs/hitos.png)
 1. Los elementos de **La Pila** que se implementarán en el Sprint (`Sprint Backlog`) se cargarán como issues siguiendo este modelo:  
     ![Ejemplo incidencia](/imgs/incidencia.webp)
-1. Este proceso automatiza una serie de tareas. Por ejemplo, los milestones se pueden visualizar en el tablero (ver abajo). El `Sprit Backlog` es el milestone del Sprint actual.
+1. Este proceso automatiza una serie de tareas. Por ejemplo, los milestones se pueden visualizar en el tablero (ver abajo). El `Sprit Backlog` son los elementos que pertenecen al milestone del Sprint actual. En la descripción del milestone se debe expresar el **`Sprint Goal`**.
 1. Así la prioridad de los elementos de **La Pila** viene establecida por el milestone al que pertenecen y dentro de cada milestone se ordenan los elementos por prioridad descendente en su columna:  
     ![Ejemplo tablero](/imgs/tablero.png)
 1. Los elementos deben tener visible su estimación en tiempo para ayudar a agruparlos. Los issues que formen parte del `Sprint Backlog` deben tener un tamaño de un día (8 horas) o menos.

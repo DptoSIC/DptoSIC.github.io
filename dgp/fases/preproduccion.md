@@ -1,12 +1,12 @@
 # Preproducción
 
-Para la implementación se usará [_"Combat Agile"_](/dgp/combat-agile/indice) (aunque también se puede usar desde el concepto).
+Para la implementación se usará [_"Combat Agile"_](/dgp/combat-agile/indice) (aunque también se podía haber empezado a usar desde el concepto, no es único para la implementación).
 
 La fase de preproducción se enfoca a realizar el MVP con un equipo de desarrollo reducido. Persigue validar la solución propuesta y minimizar el empleo de recursos en caso contrario.
 
 ![Scrum vs Tradicional](/imgs/scrum-vs-tradicional.webp)
 
-En general las prácticas del curso se ciñen a esta fase de preproducción, ya que no es normal que por plazos de tiempo se pueda llegar a producción o se amplíe el equipo con personal de la UCO. **Nuestro objetivo de producto general será proporcionar un MVP que sirva de prototipo a la UCO** para que, en caso de ser aprobado por la Autoridad correspondiente, pueda continuar la producción y mantenimiento con su propio personal.
+En general las prácticas del curso se ciñen a esta fase de preproducción, ya que no es normal que por plazos de tiempo se pueda llegar a producción o se amplíe el equipo con personal de la UCO. **Nuestro objetivo general será proporcionar un MVP que sirva de prototipo a la UCO** para que, en caso de ser aprobado por la Autoridad correspondiente, pueda continuar la producción y mantenimiento con su propio personal.
 
 > No obstante, desplegar en la red corporativa usando la infraestructura aprobada oficialmente es lo recomendable, aunque por el escaso tiempo para obtener la autorización no es un escenario realista de manera general.
 

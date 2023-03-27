@@ -1,17 +1,17 @@
 ## Cómo ejecutar Combat Agile en pŕacticas del curso
 
-Durante la práctica individual los cambios más importantes respecto a Scrum oficial son:
-1. El alumno forma el _Scrum Team_ aunque puede apoyarse en los profesores del curso para las cuestiones que necesite asesoramiento. Podría solicitar que el profesor de la asignatura participe en algún evento como la Planning en el rol de _Scrum Master_, aunque se espera que el alumno sea autónomo en el uso de Combat Agile.
-1. Antes de empezar con la implementación debe ser definido el nivel mínimo de la práctica para ser considerado apto. Para hacer esta definición es esencial utilizar todas las herramientas conocidas (diagramas UML, diseño de interfaces de usuario, herramientas colaborativas, etc...), especialmente las herramientas visuales como el Impact Map.
-1. El proceso de definición es un proceso iterativo, no debe hacerse primero el diseño de clases y luego las interfaces de usuario. Se partirá del uso de herramientas visuales y con la actualización conjunta de todo lo dicho anteriormente, se irá mejora cada elemento con el resultado de cada iteración de los otros.
-1. Se deben hacer intercambios de prácticas de tal forma que un alumno sea el cliente de otro. Esto crea la comunicación necesaria para practicas Agile de forma completa.
+Durante la práctica de esta asignatura los cambios más importantes respecto a Scrum oficial son:
+1. El _Scrum Team_ se forma conforme indica la guía docente de aunque puede apoyarse en los profesores del curso para las cuestiones que necesite asesoramiento. Podría solicitar que el profesor de la asignatura participe en algún evento como la Planning en el rol de _Scrum Master_, aunque se espera que el alumno sea autónomo en el uso de Combat Agile.
+1. Antes de empezar con la implementación debe ser definido el nivel mínimo de la práctica para ser considerado apta. Para hacer esta definición es esencial utilizar todas las herramientas conocidas (diagramas UML, diseño de interfaces de usuario, herramientas colaborativas, etc...), especialmente las herramientas visuales como el Impact Map.
+1. El proceso de definición es un proceso iterativo, no debe hacerse primero el diseño de clases y luego las interfaces de usuario. Se partirá del uso de herramientas visuales y con la actualización conjunta de todo lo dicho anteriormente, se irá mejorando cada elemento con el resultado de cada iteración de los otros (hay que mantener la coherencia).
+1. No se trata de dos prácticas sesgadas donde cada alumno haga sólo su parte. Utilizar este enfoque perjudica al seguimiento de la metodología y hará que se ponga en riesgo el éxito de la práctica.
 
 Durante la subfase de prácticas los cambios son:
 1. Los _Developers_ son los alumnos y normalmente se trabajará en pareja.
 1. El _Product Owner_ debe ser nombrado. Se tendrá un DIM en la UCO como Tutor-Unidad y un Cliente. En función del grado de conocimiento sobre Scrum del Tutor-Unidad habrá dos opciones:
-    1. Si el Tutor-Unidad conoce el rol de _Product Owner_ sería la situación ideal. Debe quedarle claro en ese caso que él es el responsable de **La Pila**.
+    1. Si el Tutor-Unidad conoce el rol de _Product Owner_ sería la situación ideal. Debe quedarle claro en ese caso que **él es el responsable de La Pila**.
     1. Si el Tutor-Unidad no puede ser el _Product Owner_ deberá ser nombrado como tal uno de los alumnos.
-1. El rol de _Scrum Master_ será desarrollado por el Tutor-Profesor si no puede representarlo el Tutor-Unidad (ver [normas de las prácticas](https://git.institutomilitar.com/Awes0meM4n/normas-dim/blob/master/normas/Normas%20Pr%C3%A1cticas.md)). Si el _Scrum Master_ no está en la misma ubicación que los _Developers_ será más difícil que participe en los eventos, con lo que debe mantenerse el contacto lo más estrecho posible y tener actualizados diariamente los artefactos. Se debe coordinar dónde y cuándo se llevarán a cabo los eventos en los que participa el Scrum Team al completo (Planning, Review y Retro). Además el Tutor-Profesor también puede abortar el Sprint justificadamente.
+1. El rol de _Scrum Master_ será desarrollado por el Tutor-Profesor si no puede representarlo el Tutor-Unidad (ver normas del año anterior para las prácticas en el canal de _#practicas_). Si el _Scrum Master_ no está en la misma ubicación que los _Developers_ será más difícil que participe en los eventos, con lo que debe mantenerse el contacto lo más estrecho posible y tener actualizados diariamente los artefactos. Se debe coordinar dónde y cuándo se llevarán a cabo los eventos en los que participa el Scrum Team al completo (Planning, Review y Retro). Además el Tutor-Profesor también puede abortar el Sprint justificadamente.
 
 Hay que aprovechar al tutor asignado (o profesores antes de la subfase de prácticas) para que ejerza de _Scrum Master_. Lo normal es que surjan muchas dudas así que debería ser habitual preguntarle.
 
