@@ -10,7 +10,7 @@ Hay que tener en cuenta que independientemente del punto de partida hay que lleg
 1. **Mapa de Impacto** ([Impact Map](https://mamaqueesscrum.com/2019/11/11/1124/)): Donde se relacionan objetivos de negocio con las tareas de desarrollo previstas (La Pila - backlog) por medio del personal implicado y el impacto que tendrán en este personal. Es una **herramienta fundamental** para servir de guía de lo que estamos haciendo y vamos a hacer.
 1. Mapa de Historias de Usuario (User Story Map): Se crea una agrupación de historias de usuario (tareas) organizadas temporalmente y priorizadas. Ayuda a determinar qué es realmente una necesidad. Normalmente sirve para establecer en un diagrama procesos que ya se están llevando a cabo. En este caso podría sustituir al Impact Map.
 1. Mapa de versiones (Release Plan): Para programar los incrementos previstos (previsión de Sprints). Sirve para ver una secuencia lógica, no para estimar. No se debe tomar como un plan que restrinja el contenido de los futuros sprints.
-> _Nota: Si hay algun concepto desconocido como "La Pila", backlog o sprint, no hay que preocuparse, se enseñan cuando se explican los conceptos de Scrum._
+> _Nota: Si hay algún concepto desconocido como "La Pila", backlog o sprint, no hay que preocuparse, se enseñan cuando se explican los conceptos de Scrum._
 
 La ventaja de las herramientas visuales es que son más fáciles de entender que un diagrama UML por parte de los stakeholders. Si se les muestra un diagrama de Casos de Uso ya elaborado en una diapositiva habitualmente dirán que les parece bien a menos que haya errores evidentes o falten casos importantes, pero si se tiene una pared con posits bien estructurada va a ser más fácil poder interactuar con ella y facilitar el entendimiento.
 
