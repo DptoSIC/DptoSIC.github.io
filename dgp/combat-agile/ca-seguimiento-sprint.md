@@ -20,7 +20,7 @@ El esfuerzo de **cada elemento se puede estimar en GitLab utilizando la acción 
 
 Por todo ello **es fundamental tener claro** el tablero de la última figura para saber en qué estoy trabajando y cuál es **"mi compromiso adquirido en la Daily"**. Todo lo que no contribuya con esto último debe ser evitado. Nuestro compromiso seguirá un sistema de arrastre (como en [kanban](https://es.wikipedia.org/wiki/Kanban_(desarrollo))).
 
-En general, debemos mantener el `Sprint Backlog` con las tareas superiores asignadas (Work In Progress - WIP) que deberían estar terminadas en la siguiente Daily (porque estos elementos tienen una duración de 1 día o menos) y cuando se completan pasan a la última columna de incidencias cerradas.
+En general, debemos mantener el `Sprint Backlog` con las tareas superiores asignadas ([Work In Progress - WIP](https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how)) que deberían estar terminadas en la siguiente Daily (porque estos elementos tienen una duración de 1 día o menos) y cuando se completan pasan a la última columna de incidencias cerradas.
 
 Es mejor finalizar una tarea y compartir los cambios con el equipo que estar trabajando en tres tareas al mismo tiempo (es decir, la visualización deseable es tener una tarea asignada que esté en lo más alto de **La Pila**, cualquier otra visualización debe hacernos pensar).
 

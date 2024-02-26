@@ -16,4 +16,4 @@ Este es un ejemplo del Sprint 2 del proyecto InfraStruturas:
 
 Idealmente debería haber cierres todos los días (en la Daily o cierre del día anterior).
 
-En este caso se ven algunos cierres numerosos a la vez. Esto puede deberse a que al "Merge" de una rama que acumula varios "Fixes". El diagrama refleja los commits que llegan a la rama master, no los que haya en otras ramas pero si formar parte aún del incremento.
+En este caso se ven algunos cierres numerosos a la vez. Esto puede deberse a que el "Merge" de una rama acumula varios "Fixes". El diagrama refleja los commits que llegan a la rama master, no los que haya en otras ramas pero sin formar parte aún del incremento.
