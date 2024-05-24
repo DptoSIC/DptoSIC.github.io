@@ -5,3 +5,5 @@
     1. Sprint [Planning](planning-en-ca)
     1. [Seguimiento](ca-seguimiento-sprint) del Sprint
         * [Burndown](burndown)
+    1. [Review](ca-sprint-review) del Sprint
+    1. [Retrospectiva](ca-sprint-retro) del Sprint
